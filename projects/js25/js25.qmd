@@ -1,0 +1,20 @@
+---
+title: "JS-honors-SP25"
+description: "James Scholar Honors Project for Spring 2025 - PSYC 220 Images of Mind"
+date: "April 29 2025"
+about: 
+  template: marquee
+  image: cover.jpg
+  links: 
+    - icon: file-slides
+      text: "Slides"
+      href: assets/JS-slides-SP25.pdf
+    - icon: journal-text
+      text: "Paper"
+      href: assets/JS-paper-SP25.pdf
+    - icon: file-earmark-arrow-down
+      text: "Journal Article"
+      href: assets/article.pdf
+      
+---
+

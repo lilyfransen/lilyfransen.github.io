@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "bookshelf.html",
+    "href": "bookshelf.html",
+    "title": "Bookshelf",
+    "section": "",
+    "text": "Currently reading\nHere’s what I’m just starting to dive into!\n\n\n\n\nKitchen Confidential\nAnthony Bourdain\nA non-fiction novel that topped NYT following Bourdain’s death in 2018. I grew up watching Parts Unknown, so I was always a fan of him and now finally getting around to reading his book!\n\n\nI Who Have Never Known Men\nJacqueline Harpman\nA haunting, newly-popular novel about female friendship and intimacy. Recommended to me by my sister!\n\n\nLove is a Dog From Hell\nCharles Bukowski\nA classic in Bukowski’s poetry canon. I’m new to reading poetry, but have always been a fan of his quotes when I’ve seen them through the years.\n\n\n\nAll-time favorites\nBooks that inspired me in my youth and continue to shape me as a young adult.\n\n\n\nJonathan Livingston Seagull\nRichard Bach\nA 1970 novella about a seagull who wants to fly for the joy of flying, not a survival tool. It inspired my self-awareness, encouraged me to embrace my individuality, and helped me better recognize my potential. I have carried Jonathan’s lessons with me since I read this years ago.\n\n\nThe Alchemist\nPaulo Coelho\nA top-selling inspirational novel about a Spanish boy that journeys to the pyramids in Egypt to discover his Personal Legend and life’s purpose. Incredibly deep and beautifully simple go hand-in-hand. This book introduced the concept of universal love to me and encouraged me to let my big dreams guide my life.\n\n\nNorwegian Wood\nHaruki Murakami\nThis story follows Toru, a university student in Tokyo, and his young adulthood years of loss, love, mental health struggles, and grief. It is a nostalgic story with fascinating symbolism. I found it to be memorable and thought-provoking of the many meanings of existence and complexities of love.\n\n\n\n\n\nThe Virgin Suicides\nJeffrey Eugenides\nA story set in 1970 suburban Detroit, following five doomed sisters and their suicides that took place in one year. It is narrated by an obsessed group of neighborhood boys, which explored the male gaze and its destructive nature. Its portrayal of female interiority showed where many go wrong in representation of women, where often men objectify women and romanticize virginity/purity. A really interesting read that has inspired a lot of my own reflection of identity and autonomy as a young woman in a patriarchal world.\n\n Normal People\nSally Rooney\nA popular story following a complex relationship between Marianne and Connell through four years of their adolescence. It is a beautiful representation of young romance but also an important examination of social class and its interactions in life. It is both heartbreaking and uplifting, I enjoyed reading about their journey together.\n\n\nThe Perks of Being a Wallflower\nStephen Chbosky\nAn honest and funny coming-of-age story of a high school boy named Charlie. Very representative of the exciting and traumatic firsts of the teenage years. This was an enlightening story for me to read in my teenage years."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level\n\n\n\n\n\nCapstone Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nA Deeper Look Into COVID-19 Case and Death Rates in Pennsylvania\n\n\n\n\n\nExploratory Data Analysis Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNeural Correlates of Reduction in Self-Judgement after Mindful Self-Compassion Training\n\n\n\n\n\nJames Scholar Honors Project for Spring 2025 - University of Illinois Urbana-Champaign PSYC 220: Images of Mind\n\n\n\n\n\nApr 29, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/js/js25.html",
+    "href": "projects/js/js25.html",
+    "title": "Neural Correlates of Reduction in Self-Judgement after Mindful Self-Compassion Training",
+    "section": "",
+    "text": "This self-chosen honors project for the James Scholar Honors Program at the University of Illinois Urbana-Champaign required a student enrolled in PSYC 220: Images of Mind to write a 3-5 page paper in the style of a journalist (think NYT) about a peer-reviewed neuroscience paper. The goal was to write in a way that captures the importance of the findings in an exciting and approachable way. A presentation on the research study was done in the last two weeks of the course in addition to the paper.\n“Neural correlates of reduction in self-judgement after Mindful Self-Compassion training”, D Joss. et al., is the explored research for this project, finding self-judgement was reduced significantly and self-compassion scores increased in participants after self-compassion training."
+  },
+  {
+    "objectID": "projects/eda/eda.html",
+    "href": "projects/eda/eda.html",
+    "title": "A Deeper Look Into COVID-19 Case and Death Rates in Pennsylvania",
+    "section": "",
+    "text": "This EDA explores trends in COVID-19 cases and deaths across Pennsylvania counties ranging from April 2020 to December 2022. My team examined how per-capita case rates relate to population size, as well as whether increased cases led to increased deaths. We used visualization methods like scatter plots and bar charts, and k-means clustering to identify any county-level patterns.\nCollaborators: Helen Peng and Maximus Liu"
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level",
+    "section": "",
+    "text": "This research focused on mental health at the county-level, using national data. After completing an EDA, Poisson regression, and using machine learning models Random Forest and XGBoost, my team saw a weak correlation between provider density and number of poor mental health days, challenging the common assumption that increasing the amount of clinical providers in a particular region leads to better mental health outcomes overall. Instead, we saw lack of social/emotional support and feelings of loneliness lead as the strongest predictors of poor mental health days, reinforcing the importance of the social determinants of health.\nCollaborators: Karim Zaggoti and Joann Jun"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lily Fransen",
+    "section": "",
+    "text": "Welcome to my website! I am a senior at the University of Illinois at Urbana-Champaign studying Interdisciplinary Health Science with minors in Health Administration, Public Health, and Psychology. I am interested in clinical research and data science, and passionate about developing creative, scalable solutions to reshape health systems.\nI spend a lot of my personal time reading, making art, and cooking. If you are interested in some of my all-time favorite books, check out my bookshelf tab!"
+  }
+]
