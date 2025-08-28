@@ -1,0 +1,21 @@
+---
+title: "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level"
+description: "Capstone Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University"
+date: "July 25 2025"
+about:
+  template: marquee
+  image: cover.jpg
+  links: 
+    - icon: easel
+      text: "Poster"
+      href: assets/poster.pdf
+    - icon: file-slides
+      text: "Slides"
+      href: assets/capstone-slides.pdf
+    - icon: file-code
+      text: "Report"
+      href: assets/report.html
+---
+This research focused on mental health at the county-level, using national data. After completing an EDA, Poisson regression, and using machine learning models Random Forest and XGBoost, my team saw a weak correlation between provider density and number of poor mental health days, challenging the common assumption that increasing the amount of clinical providers in a particular region leads to better mental health outcomes overall. Instead, we saw lack of social/emotional support and feelings of loneliness lead as the strongest predictors of poor mental health days, reinforcing the importance of the social determinants of health.
+
+Collaborators: Karim Zaggoti and Joann Jun

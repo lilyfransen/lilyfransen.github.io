@@ -1,0 +1,18 @@
+---
+title: <span style="font-size:1.1em; color:black;">Lily Fransen</span>
+image: assets/LF.jpeg
+about:
+  template: trestles
+  image-width: 25em
+  image-shape: rectangle
+  links:
+  - icon: envelope
+    href: mailto:lilyfransen29@gmail.com
+  - icon: linkedin
+    href: "https://www.linkedin.com/in/lily-fransen-9ab6182a8"
+
+---
+
+Welcome to my website! I am a senior at the University of Illinois at Urbana-Champaign studying Interdisciplinary Health Science with minors in Health Administration, Public Health, and Psychology. I am interested in clinical research and data science, and passionate about developing creative, scalable solutions to reshape health systems.
+
+I spend a lot of my personal time reading, making art, and cooking. If you are interested in some of my all-time favorite books, check out my bookshelf tab!

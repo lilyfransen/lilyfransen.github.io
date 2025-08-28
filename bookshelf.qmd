@@ -1,0 +1,110 @@
+---
+title: <span style="font-size:1.1em; color:black;">Bookshelf</span>
+description: "Welcome to my digital bookshelf! On this page, you can find all of my favorite books and recommendations."
+---
+
+<span style="font-size:1.2em; color:#36454F;">**Currently reading**</span>
+
+<span style="font-size:0.90em; color:black;">Here's what I'm just starting to dive into!</span>
+<div class="bookshelf">
+::: {.columns style="gap:40px; align-items:flex-start;"}
+
+::: {.column width="33%"}
+![](assets/books/kitchen_confidential.jpg){width=150px}  
+**Kitchen Confidential**  
+Anthony Bourdain
+
+<span style="font-size:0.80em; color:gray;">A non-fiction novel that topped NYT following Bourdain's death in 2018. I grew up watching Parts Unknown, so I was always a fan of him and now finally getting around to reading his book!</span>
+:::
+
+::: {.column width="33%"}
+![](assets/books/never_known_men.jpg){width=150px}  
+**I Who Have Never Known Men**  
+Jacqueline Harpman
+
+<span style="font-size:0.80em; color:gray;">A haunting, newly-popular novel about female friendship and intimacy. Recommended to me by my sister!</span>
+:::
+
+::: {.column width="33%"}
+![](assets/books/dog_from_hell.jpg){width=150px}  
+**Love is a Dog From Hell**  
+Charles Bukowski
+
+<span style="font-size:0.80em; color:gray;">A classic in Bukowski's poetry canon. I'm new to reading poetry, but have always been a fan of his quotes when I've seen them through the years.</span>
+:::
+
+:::
+
+---
+
+<span style="font-size:1.2em; color: #36454F">**All-time favorites**</span>
+
+Books that inspired me in my youth and continue to shape me as a young adult.
+
+::: {.columns style="gap: 60px; align-items:flex-start;"}
+
+::: {.column width="33%"}
+![](assets/books/jls.jpg){class="book-cover"}  
+**Jonathan Livingston Seagull**  
+Richard Bach
+
+<span style="font-size:0.80em; color:gray;">A 1970 novella about a seagull who wants to fly for the joy of flying, not a survival tool. It inspired my self-awareness, encouraged me to embrace my individuality, and helped me better recognize my potential. I have carried Jonathan's lessons with me since I read this years ago.</span>
+:::
+
+::: {.column width="33%"}
+![](assets/books/the_alchemist.jpg){class="book-cover"}  
+**The Alchemist**  
+Paulo Coelho
+
+<span style="font-size:0.80em; color:gray;">A top-selling inspirational novel about a Spanish boy that journeys to the pyramids in Egypt to discover his Personal Legend and life's purpose. Incredibly deep and beautifully simple go hand-in-hand. This book introduced the concept of universal love to me and encouraged me to let my big dreams guide my life.</span>
+:::
+
+::: {.column width="33%"}
+![](assets/books/norwegian_wood.jpg){class="book-cover"}  
+**Norwegian Wood**  
+Haruki Murakami
+
+<span style="font-size:0.80em; color:gray;">This story follows Toru, a university student in Tokyo, and his young adulthood years of loss, love, mental health struggles, and grief. It is a nostalgic story with fascinating symbolism. I found it to be memorable and thought-provoking of the many meanings of existence and complexities of love.</span>
+:::
+
+:::
+
+
+::: {.columns style="gap: 60px; align-items:flex-start;"}
+
+::: {.column width="33%"}
+![](assets/books/virgin_suicides.jpg){class="book-cover"}   
+**The Virgin Suicides**  
+Jeffrey Eugenides
+
+<span style="font-size:0.80em; color:gray;">A story set in 1970 suburban Detroit, following five doomed sisters and their  suicides that took place in one year. It is narrated by an obsessed group of neighborhood boys, which explored the male gaze and its destructive nature. Its portrayal of female interiority showed where many go wrong in representation of women, where often men objectify women and romanticize virginity/purity. A really interesting read that has inspired a lot of my own reflection of identity and autonomy as a young woman in a patriarchal world.</span>
+:::
+
+::: {.column width="33%"}
+![](assets/books/normal_people.jpg){class="book-cover"} 
+**Normal People**  
+Sally Rooney
+
+<span style="font-size:0.80em; color:gray;">A popular story following a complex relationship between Marianne and Connell through four years of their adolescence. It is a beautiful representation of young romance but also an important examination of social class and its interactions in life. It is both heartbreaking and uplifting, I enjoyed reading about their journey together.</span>
+:::
+
+::: {.column width="33%"}
+![](assets/books/the_perks.jpg){class="book-cover"}  
+**The Perks of Being a Wallflower**  
+Stephen Chbosky
+
+<span style="font-size:0.80em; color:gray;">An honest and funny coming-of-age story of a high school boy named Charlie. Very representative of the exciting and traumatic firsts of the teenage years. This was an enlightening story for me to read in my teenage years.</span>
+:::
+
+:::
+
+<style>
+.book-cover {
+  height: 220px;          
+  width: auto;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 10px;}
+</style>
+
+

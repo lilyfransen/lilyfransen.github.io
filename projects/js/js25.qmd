@@ -1,0 +1,23 @@
+---
+title: "Neural Correlates of Reduction in Self-Judgement after Mindful Self-Compassion Training"
+description: "James Scholar Honors Project for Spring 2025 - University of Illinois Urbana-Champaign PSYC 220: Images of Mind"
+date: "April 29 2025" 
+about: 
+  template: marquee
+  image: cover.jpg
+  links: 
+    - icon: file-slides
+      text: "Slides"
+      href: assets/JS-slides-SP25.pdf
+    - icon: journal-text
+      text: "Paper"
+      href: assets/JS-paper-SP25.pdf
+    - icon: file-earmark-arrow-down
+      text: "Journal Article"
+      href: assets/article.pdf
+      
+---
+
+This self-chosen honors project for the James Scholar Honors Program at the University of Illinois Urbana-Champaign required a student enrolled in PSYC 220: Images of Mind to write a 3-5 page paper in the style of a journalist (think NYT) about a peer-reviewed neuroscience paper. The goal was to write in a way that captures the importance of the findings in an exciting and approachable way. A presentation on the research study was done in the last two weeks of the course in addition to the paper.
+
+"Neural correlates of reduction in self-judgement after Mindful Self-Compassion training", D Joss. et al., is the explored research for this project, finding self-judgement was reduced significantly and self-compassion scores increased in participants after self-compassion training.

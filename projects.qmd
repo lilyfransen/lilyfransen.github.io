@@ -1,0 +1,8 @@
+---
+title: <span style="font-size:1.1em; color:black;">Projects</span>
+listing: 
+  contents: projects
+  type: default
+  sort:
+    - "date desc"
+---

@@ -1,0 +1,15 @@
+{
+  "hash": "b04ae7cb4d7c62d99e718442ee8101ed",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"A Deeper Look Into COVID-19 Case and Death Rates in Pennsylvania\"\ndescription: \"Exploratory Data Analysis Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University\"\ndate: \"June 17 2025\"\nresources: \".\"\nabout:\n  template: jolla\n  image: cover.jpg\n  links: \n    - icon: github\n      text: \"GitHub\"\n      href: \"https://github.com/helenpeng04/pa-covid-eda.git\"\n    - icon: file-slides\n      text: \"Slides\"\n      href: eda-slides.pdf\n---\n\n\n\nThis is my EDA project...\n\n\n\n::: {.cell}\n\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

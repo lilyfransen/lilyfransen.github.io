@@ -1,0 +1,41 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Lily Fransen"
+  navbar:
+    background: "#B5B9C4"    
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: bookshelf.qmd
+        text: Bookshelf
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/lily-fransen-9ab6182a8"        
+        target: blank
+      - icon: file-pdf
+        href: assets/LF Resume.pdf
+
+format:
+  html:
+    theme:
+      - yeti
+    css: styles.css
+    toc: true
+
+execute: 
+  freeze: auto
+
+editor: visual
+
+
+
+
+
+
+
+
+
