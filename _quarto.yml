@@ -17,7 +17,7 @@ website:
         href: "https://www.linkedin.com/in/lily-fransen-9ab6182a8"        
         target: blank
       - icon: file-pdf
-        href: assets/LF Resume.pdf
+        href: assets/LF-res.pdf
 
 format:
   html:
