@@ -2,6 +2,8 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/js2/js2.html",
+      "/projects/ctuc/ctuc.html",
       "/projects/capstone/capstone.html",
       "/projects/eda/eda.html",
       "/projects/js/js25.html"
