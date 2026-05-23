@@ -11,21 +11,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "World Health Organization: Advancing Healthcare-Associated Infection Surveillance\n\n\n\n\n\nJames Scholar Honors Project for Fall 2025 - University of Illinois Urbana-Champaign HK 410: Public Health Practice\n\n\n\n\n\nDec 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCampusTown Urgent Care: Understanding Student Health Insurance Literacy in the Context of National Policy\n\n\n\n\n\nFinal Internship Report - University of Illinois Urbana-Champaign HK 471: Health Internship\n\n\n\n\n\nDec 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Link Between Mental Health Provider Density and Poor Mental Health at the County Level\n\n\n\n\n\nCapstone Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nA Deeper Look Into COVID-19 Case and Death Rates in Pennsylvania\n\n\n\n\n\nExploratory Data Analysis Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNeural Correlates of Reduction in Self-Judgement after Mindful Self-Compassion Training\n\n\n\n\n\nJames Scholar Honors Project for Spring 2025 - University of Illinois Urbana-Champaign PSYC 220: Images of Mind\n\n\n\n\n\nApr 29, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Healthcare Equity Beliefs and Moral Judgements of Patients\n\n\n\n\n\nJames Scholar Honors Project for Spring 2026 - University of Illinois Urbana-Champaign PSYC 360: Psychology of Morality\n\n\n\n\n\nMay 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWorld Health Organization: Advancing Healthcare-Associated Infection Surveillance\n\n\n\n\n\nJames Scholar Honors Project for Fall 2025 - University of Illinois Urbana-Champaign HK 410: Public Health Practice\n\n\n\n\n\nDec 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCampusTown Urgent Care: Understanding Student Health Insurance Literacy in the Context of National Policy\n\n\n\n\n\nFinal Internship Report - University of Illinois Urbana-Champaign HK 471: Health Internship\n\n\n\n\n\nDec 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThe Link Between Mental Health Provider Density and Poor Mental Health at the County Level\n\n\n\n\n\nCapstone Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nA Deeper Look Into COVID-19 Case and Death Rates in Pennsylvania\n\n\n\n\n\nExploratory Data Analysis Project for UnitedHealth Group/Optum Bridges to Healthcare Technology Program at Carnegie Mellon University\n\n\n\n\n\nJun 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNeural Correlates of Reduction in Self-Judgement after Mindful Self-Compassion Training\n\n\n\n\n\nJames Scholar Honors Project for Spring 2025 - University of Illinois Urbana-Champaign PSYC 220: Images of Mind\n\n\n\n\n\nApr 29, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/capstone/capstone.html",
-    "href": "projects/capstone/capstone.html",
-    "title": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level",
+    "objectID": "projects/js3/js3.html",
+    "href": "projects/js3/js3.html",
+    "title": "Healthcare Equity Beliefs and Moral Judgements of Patients",
     "section": "",
-    "text": "This research focused on mental health at the county-level, using national data. After completing an EDA, Poisson regression, and using machine learning models Random Forest and XGBoost, my team saw a weak correlation between provider density and number of poor mental health days, challenging the common assumption that increasing the amount of clinical providers in a particular region leads to better mental health outcomes overall. Instead, we saw lack of social/emotional support and feelings of loneliness lead as the strongest predictors of poor mental health days, reinforcing the importance of the social determinants of health.\nCollaborators: Karim Zaggoti and Joann Jun"
+    "text": "This research proposal examines how beliefs about healthcare equity influence moral judgements and attitudes towards patients with varying levels of perceived responsibility for the condition of their health. The proposed study explores whether individuals who strongly endorse healthcare equity demonstrate less bias when rating for blame, sympathy, and deservingness of medical care. I draw from psychological theories of moral intuition and public health research on social determinants of health. This proposal aims to provide an interdisciplinary perspective on health disparities by discussing the role of moral judgement."
   },
   {
-    "objectID": "projects/ctuc/ctuc.html",
-    "href": "projects/ctuc/ctuc.html",
-    "title": "CampusTown Urgent Care: Understanding Student Health Insurance Literacy in the Context of National Policy",
+    "objectID": "projects/js/js25.html",
+    "href": "projects/js/js25.html",
+    "title": "Neural Correlates of Reduction in Self-Judgement after Mindful Self-Compassion Training",
     "section": "",
-    "text": "This comprehensive final report explores health insurance literacy among the student population and describes utilization and understanding of the student plan offered by the University of Illinois, using first-hand internship experience as evidence. National policy challenges and current research provide context for health insurance conversations. Clinic-implemented student insurance infographic was designed as a deliverable."
+    "text": "This self-chosen honors project for the James Scholar Honors Program at the University of Illinois Urbana-Champaign required a student enrolled in PSYC 220: Images of Mind to write a 3-5 page paper in the style of a journalist (think NYT) about a peer-reviewed neuroscience paper. The goal was to write in a way that captures the importance of the findings in an exciting and approachable way. A presentation on the research study was done in the last two weeks of the course in addition to the paper.\n“Neural correlates of reduction in self-judgement after Mindful Self-Compassion training”, D Joss. et al., is the explored research for this project, finding self-judgement was reduced significantly and self-compassion scores increased in participants after self-compassion training."
   },
   {
     "objectID": "projects/eda/eda.html",
@@ -35,11 +35,18 @@
     "text": "This EDA explores trends in COVID-19 cases and deaths across Pennsylvania counties ranging from April 2020 to December 2022. My team examined how per-capita case rates relate to population size, as well as whether increased cases led to increased deaths. We used visualization methods like scatter plots and bar charts, and k-means clustering to identify any county-level patterns.\nCollaborators: Helen Peng and Maximus Liu"
   },
   {
-    "objectID": "projects/js/js25.html",
-    "href": "projects/js/js25.html",
-    "title": "Neural Correlates of Reduction in Self-Judgement after Mindful Self-Compassion Training",
+    "objectID": "projects/ctuc/ctuc.html",
+    "href": "projects/ctuc/ctuc.html",
+    "title": "CampusTown Urgent Care: Understanding Student Health Insurance Literacy in the Context of National Policy",
     "section": "",
-    "text": "This self-chosen honors project for the James Scholar Honors Program at the University of Illinois Urbana-Champaign required a student enrolled in PSYC 220: Images of Mind to write a 3-5 page paper in the style of a journalist (think NYT) about a peer-reviewed neuroscience paper. The goal was to write in a way that captures the importance of the findings in an exciting and approachable way. A presentation on the research study was done in the last two weeks of the course in addition to the paper.\n“Neural correlates of reduction in self-judgement after Mindful Self-Compassion training”, D Joss. et al., is the explored research for this project, finding self-judgement was reduced significantly and self-compassion scores increased in participants after self-compassion training."
+    "text": "This comprehensive final report explores health insurance literacy among the student population and describes utilization and understanding of the student plan offered by the University of Illinois, using first-hand internship experience as evidence. National policy challenges and current research provide context for health insurance conversations. Clinic-implemented student insurance infographic was designed as a deliverable."
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "The Link Between Mental Health Provider Density and Poor Mental Health at the County Level",
+    "section": "",
+    "text": "This research focused on mental health at the county-level, using national data. After completing an EDA, Poisson regression, and using machine learning models Random Forest and XGBoost, my team saw a weak correlation between provider density and number of poor mental health days, challenging the common assumption that increasing the amount of clinical providers in a particular region leads to better mental health outcomes overall. Instead, we saw lack of social/emotional support and feelings of loneliness lead as the strongest predictors of poor mental health days, reinforcing the importance of the social determinants of health.\nCollaborators: Karim Zaggoti and Joann Jun"
   },
   {
     "objectID": "projects/js2/js2.html",
